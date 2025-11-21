@@ -42,7 +42,7 @@ $results = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
 <body>
     <div class="d-flex">
-        <?= sidebarShow("venue"); ?>
+        <?= sidebarShow("overview"); ?>
         <!--Main div==============================================================================-->
         <div class="container-fluid content flex-grow-1 p-5">
             <!--<div class="d-flex flex-column flex-md-row p-4 gap-4 py-md-5 align-items-center justify-content-center"></div>-->
