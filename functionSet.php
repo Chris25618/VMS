@@ -83,7 +83,7 @@ HTML;
 echo <<<HTML
     <div class="sidebar">
         <div class="d-flex flex-column flex-shrink-0 p-3 text-bg-dark" style="width: 260px; min-height: 100vh"> 
-                    <a href="Admin_eventM.php" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none"><span class="fs-4 mx-3">VMS</span></a>
+                    <a href="Admin_overview.php" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none"><span class="fs-4 mx-3">VMS</span></a>
                     <hr> 
                     <ul class="nav nav-pills flex-column mb-auto"> 
                         <li class="nav-item"><a href="Admin_eventM.php" class="nav-link <?= $eM ?>" aria-current="page">Event</a></li> 
